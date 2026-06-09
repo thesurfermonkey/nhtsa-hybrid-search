@@ -1,5 +1,3 @@
-# nhtsa-hybrid-search
-National Highway Transportation Safety  - Hybrid relational and semantic search
 # NHTSA Hybrid Search — Semantic + Relational over 2.4M rows
 
 Hybrid search over the U.S. National Highway Traffic Safety Administration (NHTSA) safety dataset: combine **in-database semantic vector search** with **hard relational filters** (make / model / year / crash / fire) to find the *right* recalls and complaints by meaning, not just keywords — entirely inside SQL Server 2025.
